@@ -126,3 +126,4 @@ yarn-error.log*
 next-env.d.ts
 /API/appsettings.Development.json
 /API/appsettings.json
+/client-app/node_modules
